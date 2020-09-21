@@ -6,7 +6,7 @@ from selenium import webdriver
 
 
 def look_for_new_video():
-    api_key = "AIzaSyAw-_otx2SVq66S68TBWcEOdhD2XxWeVQQ"
+    api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
     channel_id = "AIzaSyAG4S9ymL9jxZt_tThc5FCB7rV3E_ebAEE"
 
     base_video_url = 'https://www.youtube.com/watch?v='
