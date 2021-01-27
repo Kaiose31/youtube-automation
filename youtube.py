@@ -9,7 +9,8 @@ import google_auth_oauthlib.flow
 import googleapiclient
 
 #get the ids of all subscribed channels
-#search video and open in browser
+#search video and open in browser and make a playlist
+
 def get_id():
     pass
 
